@@ -1,4 +1,5 @@
 #include <iostream>
+#include "UtilityFuncs.h"
 int main() {
-	std::cout << "hello world!\n";
+	Log("Hello World!");
 }
